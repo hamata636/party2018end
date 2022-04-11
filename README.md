@@ -126,7 +126,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
 <footer>
-    <p><span class="grey">Copyright S.Hada 2018~2021 @MC_T_PU_PM_S (ＰＵ戦略企画課)</span></p>
+    <p><span class="grey">Copyright S.Hada 2018 @ 1G1</span></p>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
